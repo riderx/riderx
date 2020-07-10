@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Martin donadieu",
+    "label": "🎙Podcaster | 🏄‍♀️CTO | 🚀Entrepreneur | 🧞‍♀️ Life Goal : Make 20% of the world 20% happier #people #happiness",
+    "picture": "http://graph.facebook.com/1558183383/picture?type=large&w‌​idth=720&height=720",
+    "email": "martindonadieu@gmail.com",
+    "phone": "+33651316427",
+    "website": "https://forgr.ee",
+    "summary": "Entrepreneur in love with new technologies! I think they allow us to stay focused on the core business of the company and save valuable time, which is why I chose developer studies at Epitech which gave me the tools to transform a Idea in project effectively.  Startup guy in soul, I would like to build the new disruption of tomorrow. I particularly appreciate the sharing economy sector.  Currently obsessed with Angularjs, Nodejs, Firebase and Ionic. I firmly believe that these are the most suitable technologies for the startup world.  With a good team spirit and my overall vision of the objectives, I am able to lead projects, this position in a team stimulates me and allows me to question myself every day. In order to satisfy my need to learn, my adaptability and my creativity, I need an innovative and exciting environment .  I dream of a world where each person could benefit from the same UX with the best quality without worrying about the terminal it owns.",
+    "location": {
+      "address": "2 rue des poissoniers",
+      "postalCode": "75018",
+      "city": "Paris",
+      "countryCode": "France",
+      "region": "ile de france"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "martindonadieu",
+        "url": "https://twitter.com/martindonadieu"
+      },
+      {
+        "network": "github",
+        "username": "riderx",
+        "url": "https://github.com/riderx"
+      }
+    ]
+  },
+  "work": [
+      {
+      "company": "Cashstory",
+      "position": "CTO",
+      "website": "https://cashstory.com",
+      "startDate": "2017-02-01",
+      "summary": Create a modern environment as close as possible to the old Excel financial files to migrate them to python via jupyter and automate their workflow to apply the DRY principle (don't repeat yourself) to the world of finance.",
+      "highlights": [
+        "JupyterLab increased by our library, which allows among other things to automate (CRON) and call notebooks via API",
+        "Deploy with kubernet on AWS",
+        " BOB workspace which brings together all of our services and who knows how to chat with them on the front via secure message iframe or back via API, the workspace works LOGINLESS for the services that accompany it.
+      ]
+    },
+        {
+      "company": "Toucan toco",
+      "position": "Lead test ",
+      "website": "https://toucantoco.com",
+      "startDate": "2017-02-01",
+      "summary": Simply visualize your data in business with our data storytelling solution. Make informed decisions through our application, available on mobile, tablets and pc.",
+      "highlights": [
+        "I joined Toucan Toco first engineer for quality assurance (QA), my goal was to set up, good practice of testing and test automation, it was a particular challenge because Toucan Toco is a fully configurable solution .",
+        "This mission I failed, End-to-End testing, in a non-constant environment is a big challenge, in addition to the human challenge that it represents to engage people on in-depth testing."
+      ]
+    },
+    {
+      "company": "Forgr",
+      "position": "CEO",
+      "website": "https://forgr.ee",
+      "startDate": "2017-02-01",
+      "summary": "We can help turn your idea into reality with a Minimum Viable Product (MVP) for mobile or web. Save time, money and risk with a streamlined version of your product featuring just the core features, so you can test it with your target audience or pitch it directly to investors. We build systems that can be scaled up so you can gain valuable insight and funding to develop further. It’s time to find out just how strong your idea is.",
+      "highlights": [
+        "Created Captime crossfit timer + 20K download paid app",
+        "Successfully launch Fairw.ai chat platform for sales",
+        "Started french podcast (INDIE MAKERS) around bootstrapping +5k listener"
+      ]
+    },
+    {
+      "company": "You2You",
+      "position": "Lead Dev mobile application",
+      "website": "http://you2you.fr",
+      "startDate": "2016-06-01",
+      "endDate": "2017-07-01",
+      "summary": "WE HELP PHYSICIANS DO WHAT THEY LIKE, TAKE CARE OF THEIR PATIENTS",
+      "highlights": [
+        "Management of Apps for delivery man, from prototyping to production",
+        "# Tech Stack : ionic, cordova, Angularjs, nodejs, gulp, scss",
+        "More than 30,000 app downloads in 1 year.",
+        "More than 2000 active users per month."
+      ]
+    },
+    {
+      "company": "You2You",
+      "position": "Free-lance FullStack Telecommuting",
+      "website": "http://you2you.fr",
+      "startDate": "2015-06-01",
+      "endDate": "2016-07-01",
+      "summary": "Deliver your customers cheaper, faster. Immediate delivery or by appointment. Extend the customer experience to the next level",
+      "highlights": [
+        "Choice of techno: NodeJS, AngularJS, Grunt, Bootstrap",
+        "Establishment of business APi of You2You",
+        "Release and server administration"
+      ]
+    },
+    {
+      "company": "Bress",
+      "position": "Lead DEV Hacker House",
+      "website": "http://bress.healthcare",
+      "startDate": "2014-06-01",
+      "endDate": "2015-07-01",
+      "summary": "WE HELP PHYSICIANS DO WHAT THEY LIKE, TAKE CARE OF THEIR PATIENTS",
+      "highlights": [
+        "Structuration of the first application of Bress",
+        "Choice of technical solutions adopted as needed (NodeJS & AngularJS)",
+        "Organization of the dev team",
+        "Implementation of Agile, SCRUM and TDD with tools to increase the efficiency of the team (Redmine, Gitlab)"
+      ]
+    },
+    {
+      "company": "Creoze SAS",
+      "position": "Project manager & developper",
+      "website": "http://creoze.fr",
+      "startDate": "2012-06-01",
+      "endDate": "2014-07-01",
+      "summary": "WE HELP PHYSICIANS DO WHAT THEY LIKE, TAKE CARE OF THEIR PATIENTS",
+      "highlights": [
+        "Creation of company's website",
+        "Financial management",
+        "Marketing practices",
+        "Invoicing",
+        "Creation of contract",
+        "Choice of the technologies to be used adapted to every customer",
+        "Doing project for customers"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Epitech - Paris",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2015-08-01",
+      "endDate": "2017-06-01",
+      "gpa": "2.13",
+      "courses": []
+    },
+    {
+      "institution": "Epitech - Montpellier",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2012-08-01",
+      "endDate": "2015-06-01",
+      "gpa": "1.89",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Clibing",
+      "keywords": [
+        "outdoor",
+        "indoor"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Ghislain Bourgin",
+      "reference": "Martin is the technical cornerstone that allowed us to build and iterate to get You2You from a Google Sheet to a viable app in the Appstore, actually delivering thousands of parcels.\nHe's a self-driven individual that will be best engaged when constantly fed with new projects and opportunities of learning."
+    }
+  ]
+}
