@@ -6,7 +6,7 @@
 </p>
 
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/me.png"></img>
+<img width="50%" src="https://github.com/riderx/riderx/blob/master/me.png"></img>
 </p>
 
 Actually I'm working on: 
