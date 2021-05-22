@@ -45,6 +45,9 @@ Actually I'm working on:
 <img src="https://github.com/riderx/riderx/blob/master/lkstats.png" width="50%"></img>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riderx&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me !
 
 :point_right: [My Curriculum Vitae](CV_MARTIN_DONADIEU.pdf)<br><br>
