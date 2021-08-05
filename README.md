@@ -11,12 +11,11 @@
 
 Actually I'm working on: 
 
-* 💃 Cashstory !
 * ⚡️ Indie makers
 * 💪 Captime
 * 📊 LK stats
-* :computer: Coding projects with Angular9/ Vuejs / docker/ Firebase
-* :books: Learning Hasura
+* 🥳 Mimesis
+* :computer: Coding projects with Vuejs / Firebase / Capacitor
 
 ## My Skills
 <p align=center>
@@ -24,11 +23,6 @@ Actually I'm working on:
 </p>
 
 ## My Projects
-
-:point_right: **Landing Cashstory** : [Cashstory.com](https://cashstory.com)
-<p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/cashstory.png" width="50%"></img>
-</p>
 
 :point_right: **Indie MAKERS** : [indiemakers.fr](https://indiemakers.fr)
 <p align=center>
@@ -41,6 +35,11 @@ Actually I'm working on:
 </p>
 
 :point_right: **Lk stats** : [lkstats.web.app](https://lkstats.web.app/welcome)
+<p align=center>
+<img src="https://github.com/riderx/riderx/blob/master/lkstats.png" width="50%"></img>
+</p>
+
+:point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/master/lkstats.png" width="50%"></img>
 </p>
