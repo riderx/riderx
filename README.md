@@ -19,29 +19,29 @@ Actually I'm working on:
 
 ## My Skills
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/skills.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/skills.png" width="50%"></img>
 </p>
 
 ## My Projects
 
 :point_right: **Indie MAKERS** : [indiemakers.fr](https://indiemakers.fr)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/indiemakers.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/indiemakers.png" width="50%"></img>
 </p>
 
 :point_right: **Captime** : [captime.app](https://captime.app)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/captime.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
 </p>
 
 :point_right: **Lk stats** : [lkstats.web.app](https://lkstats.web.app/welcome)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/lkstats.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/lkstats.png" width="50%"></img>
 </p>
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/mimesis-landing.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/mimesis-landing.png" width="50%"></img>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riderx&theme=dracula)
