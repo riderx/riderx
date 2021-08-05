@@ -41,7 +41,7 @@ Actually I'm working on:
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/master/lkstats.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/master/mimesis-landing.png" width="50%"></img>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riderx&theme=dracula)
