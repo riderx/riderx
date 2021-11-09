@@ -34,7 +34,7 @@ Actually I'm working on:
 <img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
 </p>
 
-:point_right: **Lk stats** : [SocialSelling.Ai](https://SocialSelling.Ai/)
+:point_right: **SocialSelling.Ai** : [SocialSelling.Ai](https://SocialSelling.Ai/)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/lkstats.png" width="50%"></img>
 </p>
