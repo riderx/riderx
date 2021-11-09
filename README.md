@@ -13,7 +13,7 @@ Actually I'm working on:
 
 * ⚡️ Indie makers
 * 💪 Captime
-* 📊 LK stats
+* 📊 SocialSelling.Ai
 * 🥳 Mimesis
 * :computer: Coding projects with Vuejs / Firebase / Capacitor
 
@@ -34,7 +34,7 @@ Actually I'm working on:
 <img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
 </p>
 
-:point_right: **Lk stats** : [lkstats.web.app](https://lkstats.web.app/welcome)
+:point_right: **Lk stats** : [SocialSelling.Ai](https://SocialSelling.Ai/)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/lkstats.png" width="50%"></img>
 </p>
