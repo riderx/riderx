@@ -36,7 +36,7 @@ Actually I'm working on:
 
 :point_right: **SocialSelling.Ai** : [SocialSelling.Ai](https://SocialSelling.Ai/)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/lkstats.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/socialsellingai_screen.png" width="50%"></img>
 </p>
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
