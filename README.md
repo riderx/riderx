@@ -15,7 +15,7 @@ Actually I'm working on:
 * 💪 Captime
 * 📊 SocialSelling.Ai
 * 🥳 Mimesis
-* :computer: Coding projects with Vuejs / Firebase / Capacitor
+* :computer: Coding projects with Vuejs / Supabase / Capacitor
 
 ## My Skills
 <p align=center>
