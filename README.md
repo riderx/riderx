@@ -53,4 +53,4 @@ Actually I'm working on:
 :point_right: [My Twitter](https://twitter.com/martindonadieu)<br><br>
 :point_right: [My LinkedIn](https://www.linkedin.com/in/martindonadieu)<br><br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=riderx.riderx)
+<a><img src="https://page-views.glitch.me/badge?page_id=riderx.riderx&right_color=blue" /></a>
