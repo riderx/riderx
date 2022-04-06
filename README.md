@@ -8,9 +8,15 @@
 <p align=center>
 <img width="50%" src="https://github.com/riderx/riderx/blob/main/profil_martin.png"></img>
 </p>
+<p>
+<a><img src="https://page-views.glitch.me/badge?page_id=riderx.riderx&right_color=blue" /></a>
+</p>
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/riderx)
 
 Actually I'm working on: 
 
+* 🔄 Capgo.app
 * ⚡️ Indie makers
 * 💪 Captime
 * 📊 SocialSelling.Ai
@@ -61,5 +67,3 @@ Actually I'm working on:
 :point_right: [My Curriculum Vitae](CV_MARTIN_DONADIEU.pdf)<br><br>
 :point_right: [My Twitter](https://twitter.com/martindonadieu)<br><br>
 :point_right: [My LinkedIn](https://www.linkedin.com/in/martindonadieu)<br><br>
-
-<a><img src="https://page-views.glitch.me/badge?page_id=riderx.riderx&right_color=blue" /></a>
