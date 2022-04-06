@@ -24,19 +24,22 @@ Actually I'm working on:
 
 ## My Projects
 
-:point_right: **Indie MAKERS** : [indiemakers.fr](https://indiemakers.fr)
+:point_right: **Indie MAKERS** : French podcast of bootstrapped entrepreneurs
+[indiemakers.fr](https://indiemakers.fr)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/indiemakers.png" width="50%"></img>
 </p>
 
-:point_right: **Captime** : [captime.app](https://captime.app)
+:point_right: **Captime** : Crossfit timer app made with Vuejs, capacitor
+[captime.app](https://captime.app)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
 </p>
 
-:point_right: **SocialSelling.Ai** : [SocialSelling.Ai](https://SocialSelling.Ai/)
+:point_right: **Capgo.app** : OTA update for capacitor/cordova app
+[Capgo.app](https://Capgo.app/)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/socialsellingai_screen.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/capgo_screen.png" width="50%"></img>
 </p>
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
