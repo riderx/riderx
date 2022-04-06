@@ -24,12 +24,6 @@ Actually I'm working on:
 
 ## My Projects
 
-:point_right: **Indie MAKERS** : French podcast of bootstrapped entrepreneurs
-[indiemakers.fr](https://indiemakers.fr)
-<p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/indiemakers.png" width="50%"></img>
-</p>
-
 :point_right: **Captime** : Crossfit timer app made with Vuejs, capacitor
 [captime.app](https://captime.app)
 <p align=center>
@@ -45,6 +39,18 @@ Actually I'm working on:
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/mimesis-landing.png" width="50%"></img>
+</p>
+
+:point_right: **Indie MAKERS** : French podcast of bootstrapped entrepreneurs
+[indiemakers.fr](https://indiemakers.fr)
+<p align=center>
+<img src="https://github.com/riderx/riderx/blob/main/indiemakers.png" width="50%"></img>
+</p>
+
+:point_right: **SocialSelling.ai** : Gather Linkedin stats from your post
+[SocialSelling.ai](https://SocialSelling.ai)
+<p align=center>
+<img src="https://github.com/riderx/riderx/blob/main/socialsellingai_screen.png" width="50%"></img>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riderx&theme=dracula)
