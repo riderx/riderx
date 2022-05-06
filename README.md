@@ -64,6 +64,6 @@ Actually I'm working on:
 ## Contact Me !
 
 :point_right: [My Curriculum Vitae](CV_MARTIN_DONADIEU.pdf)<br><br>
-:point_right: [My Github Curriculum Vitae](Chttps://resume.github.io/?riderx)<br><br>
+:point_right: [My Github Curriculum Vitae](https://resume.github.io/?riderx)<br><br>
 :point_right: [My Twitter](https://twitter.com/martindonadieu)<br><br>
 :point_right: [My LinkedIn](https://www.linkedin.com/in/martindonadieu)<br><br>
