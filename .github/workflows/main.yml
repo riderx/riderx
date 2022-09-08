@@ -13,6 +13,7 @@ jobs:
     strategy:
       matrix:
         Nodes: [14.x, 15.x, 16.x, 17.x, 18.x]
+        PnpmVersion: [4, 5, 6, 7]
         Commands: ['yarn add', 'npm i', 'pnpm i']
         Pakages: [
           '@capgo/capacitor-updater',
@@ -27,15 +28,14 @@ jobs:
           '@capgo/capacitor-crisp',
           '@capgo/inappbrowser'
         ]
-
   
     steps:
       - name: Use Node.js ${{ matrix.Nodes }}
         uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: ${{ matrix.Nodes }}
       - uses: pnpm/action-setup@v2
-        with:
-          version: latest
+        with: ${{ matrix.PnpmVersion }}
+          version: ${{ matrix.node-version }}
       - name: Check if package is available in "${{matrix.Commands}}"
         run: ${{matrix.Commands}} ${{matrix.Pakages}}
