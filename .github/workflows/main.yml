@@ -3,7 +3,8 @@ name: Main
 on:
   schedule:
   - cron: "*/5 * * * *"
-
+  workflow_dispatch:
+  
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -12,11 +13,8 @@ jobs:
     strategy:
       matrix:
         Pakages: ['@capgo/capacitor-updater', 'vue-timer-hook']
+        Commands: ['yarn add', 'npm i ', 'pnpm i']
   
     steps:
-      - name: Check if package is available in npm
-        run: npm i ${{matrix.Pakages}}
-      - name: Check if package is available in yarn
-        run: yarn add ${{matrix.Pakages}}
-      - name: Check if package is available in pnpm
-        run: pnpm i ${{matrix.Pakages}}
+      - name: Check if package is available in "${{matrix.Commands}}"
+        run: ${{matrix.Commands}} ${{matrix.Pakages}}
