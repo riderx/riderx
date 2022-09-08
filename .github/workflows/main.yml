@@ -12,7 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        Pakages: ['@capgo/capacitor-updater', 'vue-timer-hook']
+        Pakages: [
+          '@capgo/capacitor-updater',
+          'vue-timer-hook',
+          'capacitor-standard-version',
+          '@capgo/capacitor-purchases',
+          '@capgo/nativegeocoder',
+          '@capgo/capacitor-screen-recorder',
+          '@capgo/capacitor-flash',
+          '@capgo/capacitor-mute',
+          '@capgo/native-market',
+          '@capgo/capacitor-crisp',
+          '@capgo/inappbrowser'
+        ]
         Commands: ['yarn add', 'npm i', 'pnpm i']
   
     steps:
