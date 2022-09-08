@@ -14,7 +14,6 @@ jobs:
       matrix:
         Nodes: [14.x, 15.x, 16.x, 17.x, 18.x]
         PnpmVersion: [6, 7]
-        Commands: ['yarn add', 'npm i', 'pnpm i']
         Pakages: [
           '@capgo/capacitor-updater',
           'vue-timer-hook',
@@ -37,5 +36,9 @@ jobs:
       - uses: pnpm/action-setup@v2
         with:
           version: ${{ matrix.PnpmVersion }}
-      - name: Check if package is available in "${{matrix.Commands}}"
-        run: ${{matrix.Commands}} ${{matrix.Pakages}}
+      - name: Check if package is available in yarn
+        run: yarn add ${{matrix.Pakages}}
+      - name: Check if package is available in npm
+        run: npm i ${{matrix.Pakages}}
+      - name: Check if package is available in pnpm
+        run: pnpm i ${{matrix.Pakages}}
