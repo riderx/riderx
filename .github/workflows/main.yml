@@ -36,6 +36,6 @@ jobs:
           node-version: ${{ matrix.Nodes }}
       - uses: pnpm/action-setup@v2
         with: ${{ matrix.PnpmVersion }}
-          version: ${{ matrix.node-version }}
+          version: ${{ matrix.PnpmVersion }}
       - name: Check if package is available in "${{matrix.Commands}}"
         run: ${{matrix.Commands}} ${{matrix.Pakages}}
