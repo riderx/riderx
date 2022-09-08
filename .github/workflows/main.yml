@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
+        Nodes: [14.x, 15.x, 16.x, 17.x, 18.x]
+        Commands: ['yarn add', 'npm i', 'pnpm i']
         Pakages: [
           '@capgo/capacitor-updater',
           'vue-timer-hook',
@@ -25,11 +27,15 @@ jobs:
           '@capgo/capacitor-crisp',
           '@capgo/inappbrowser'
         ]
-        Commands: ['yarn add', 'npm i', 'pnpm i']
+
   
     steps:
+      - name: Use Node.js ${{ matrix.Nodes }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
       - uses: pnpm/action-setup@v2
         with:
-          version: 7
+          version: latest
       - name: Check if package is available in "${{matrix.Commands}}"
         run: ${{matrix.Commands}} ${{matrix.Pakages}}
