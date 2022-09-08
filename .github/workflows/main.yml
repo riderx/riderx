@@ -16,5 +16,8 @@ jobs:
         Commands: ['yarn add', 'npm i ', 'pnpm i']
   
     steps:
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7
       - name: Check if package is available in "${{matrix.Commands}}"
         run: ${{matrix.Commands}} ${{matrix.Pakages}}
