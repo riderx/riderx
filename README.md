@@ -13,6 +13,9 @@
 <a href="https://github.com/sponsors/riderx"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" /></a>
 </p>
 
+[![Main](https://github.com/riderx/riderx/actions/workflows/main.yml/badge.svg?event=check_run)](https://github.com/riderx/riderx/actions/workflows/main.yml)
+
+
 Actually I'm working on: 
 
 * 🔄 Capgo.app
