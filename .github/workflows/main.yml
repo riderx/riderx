@@ -14,5 +14,9 @@ jobs:
         Pakages: ['@capgo/capacitor-updater', 'vue-timer-hook']
   
     steps:
-      - name: Check if package is available
+      - name: Check if package is available in npm
         run: npm i ${{matrix.Pakages}}
+      - name: Check if package is available in yarn
+        run: yarn add ${{matrix.Pakages}}
+      - name: Check if package is available in pnpm
+        run: pnpm i ${{matrix.Pakages}}
