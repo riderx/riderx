@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         Pakages: ['@capgo/capacitor-updater', 'vue-timer-hook']
-        Commands: ['yarn add', 'npm i ', 'pnpm i']
+        Commands: ['yarn add', 'npm i', 'pnpm i']
   
     steps:
       - uses: pnpm/action-setup@v2
