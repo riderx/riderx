@@ -5,8 +5,14 @@ on:
   - cron: "* * * * *"
 
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        Pakages: ['@capgo/capacitor-updater', 'vue-timer-hook']
+  
     steps:
-      - name: Fetch package
-        run: npm i @capgo/capacitor-updater vue-timer-hook
+      - name: Check if package is available
+        run: npm i ${{matrix.Pakages}}
