@@ -21,9 +21,8 @@
 Actually I'm working on: 
 
 * 🔄 Capgo.app
-* ⚡️ Indie makers
 * 💪 Captime
-* 📊 SocialSelling.Ai
+* * ⚡️ Indie makers
 * 🥳 Mimesis
 * :computer: Coding projects with Vuejs / Supabase / Capacitor
 
@@ -34,16 +33,16 @@ Actually I'm working on:
 
 ## My Projects
 
-:point_right: **Captime** : Crossfit timer app made with Vuejs, capacitor
-[captime.app](https://captime.app)
-<p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
-</p>
-
 :point_right: **Capgo.app** : OTA update for capacitor/cordova app
 [Capgo.app](https://Capgo.app/)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/capgo_screen.png" width="50%"></img>
+</p>
+
+:point_right: **Captime** : Crossfit timer app made with Vuejs, capacitor
+[captime.app](https://captime.app)
+<p align=center>
+<img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
 </p>
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
@@ -55,12 +54,6 @@ Actually I'm working on:
 [indiemakers.fr](https://indiemakers.fr)
 <p align=center>
 <img src="https://github.com/riderx/riderx/blob/main/indiemakers.png" width="50%"></img>
-</p>
-
-:point_right: **SocialSelling.ai** : Gather Linkedin stats from your post
-[SocialSelling.ai](https://SocialSelling.ai)
-<p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/socialsellingai_screen.png" width="50%"></img>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riderx&theme=dracula)
