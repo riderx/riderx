@@ -22,7 +22,7 @@ Actually I'm working on:
 
 * 🔄 Capgo.app
 * 💪 Captime
-* * ⚡️ Indie makers
+* ⚡️ Indie makers
 * 🥳 Mimesis
 * :computer: Coding projects with Vuejs / Supabase / Capacitor
 
