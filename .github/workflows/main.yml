@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        Nodes: [14.x, 15.x, 16.x, 17.x, 18.x]
+        Nodes: [15.x, 16.x, 17.x, 18.x, 19.x]
         PnpmVersion: [6, 7]
         Pakages: [
           '@capgo/capacitor-updater',
