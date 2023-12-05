@@ -2,7 +2,7 @@
 <h1 align=center>Hi There 👋</h1>
 
 <p align=center>
-  I'm Martin, a french <strong>Lead Developer</strong>.
+  I'm Martin, a french <strong>Indie Developer</strong>.
 </p>
 
 <p align=center>
