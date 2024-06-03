@@ -21,8 +21,7 @@
 Actually I'm working on: 
 
 * 🔄 Capgo.app
-* 💪 Captime
-* ⚡️ Indie makers
+* 🎙️ Solos.ventures
 * 🥳 Mimesis
 * :computer: Coding projects with Vuejs / Supabase / Capacitor
 
