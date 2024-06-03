@@ -38,10 +38,10 @@ Actually I'm working on:
 <img src="https://github.com/riderx/riderx/blob/main/capgo_screen.png" width="50%"></img>
 </p>
 
-:point_right: **Captime** : Crossfit timer app made with Vuejs, capacitor
-[captime.app](https://captime.app)
+:point_right: **Solos** : Podcast about solo entrepreneur
+[solos.ventures](https://solos.ventures)
 <p align=center>
-<img src="https://github.com/riderx/riderx/blob/main/captime.png" width="50%"></img>
+<img src="https://github.com/riderx/riderx/blob/main/solos.png" width="50%"></img>
 </p>
 
 :point_right: **Mimesis** : [mimesis.fun](https://mimesis.fun)
